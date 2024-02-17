@@ -52,3 +52,8 @@ body{
 .input-btn:hover{
     background-color: rgb(183, 48, 48);
 }
+.logo{
+    position: absolute;
+    top:20px;
+    left:180px;
+}
