@@ -140,3 +140,75 @@ body{
     font-size: 14px;
     cursor: pointer;
 }
+/* ============================================ */
+.bg-3{
+    width:900px;
+    margin:20px auto;
+    position: relative;
+}
+.bg3-img{
+    width:100%;
+}
+
+.bg3-logo{
+    background-color    :rgba(255, 255, 255, 0.8);
+    width:20%;
+    position: absolute;
+    top:40px;
+    left:40px;
+    color:#6b6b6b;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-left: 40px;
+    padding-right: 40px;
+}
+
+.bg3-logo h1{
+    text-transform: uppercase;
+}
+
+.bg3-menu{
+    background-color    :rgba(255, 255, 255, 0.8);
+    width:60%;
+    text-align: center;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    position: absolute;
+    top:50px;
+    right:20px;
+}
+
+.bg3-menu a{
+    text-decoration:none;
+    padding:10px;
+    color:#6b6b6b;
+    margin-right: 20px;
+    margin-left: 20px;
+}
+
+.bg3-menu a:hover{
+    font-weight: bold;
+    transition: 1s;
+}
+
+.bg3-section{
+    width:40%;
+    position: absolute;
+    top:250px;
+    left:100px;
+    color:white;
+}
+.bg3-section div{
+    border-bottom: 1px solid lightgrey;
+    text-transform: uppercase;
+}
+.bg3-section h1{
+    margin-top: 5px;
+    font-size: 48px;
+    letter-spacing: 1px;
+}
+.bg3-btn{
+    background-color: white;
+    padding: 15px 25px;
+    border: none;
+    font-size: 16px;
+}
