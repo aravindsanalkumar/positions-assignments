@@ -246,3 +246,39 @@ body{
     bottom:20px;
     right:20px;
 }
+/* =================================================== */
+
+.bg4{
+    width:1200px;
+    margin:20px auto;
+    position: relative;
+}
+.bg4-img{
+    width:100%;
+}
+
+.bg4-content{
+    width:45%;
+    position: absolute;
+    top:150px;
+    left:40px;
+}
+.bg4-content h1{
+    font-size: 48px;
+    line-height: 60px;
+    color:white;
+}
+.bg4-content p{
+    color:white;
+    font-size: 20px;
+    line-height: 30px;
+}
+.bg4-btn{
+    background-color: #e67e22;
+    padding:20px 40px;
+    font-size: 16px;
+    color:white;
+    border: none;
+    border-radius: 12px;
+    cursor:pointer;
+}
