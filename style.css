@@ -214,8 +214,15 @@ body{
     cursor: pointer;
     letter-spacing: 1px;
 }
-
 .bg3-btn:hover{
     background-color: rgb(62, 58, 58);
     color:white;
+}
+.bg3-mobile{
+    position: absolute;
+    top:200px;
+    right:60px;
+}
+.bg3-mobile-img{
+    height: 500px;
 }
