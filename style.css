@@ -226,3 +226,23 @@ body{
 .bg3-mobile-img{
     height: 500px;
 }
+.bg3-card{
+    background-color: rgba(255, 255, 255, 0.463);   
+    width:25%;
+    text-align: center;
+    padding:25px;
+    position: absolute;
+    border-radius: 8px;
+}
+.position-1{
+    bottom:20px;
+    left:20px;
+}
+.position-2{
+    bottom:20px;
+    left:315px;
+}
+.position-3{
+    bottom:20px;
+    right:20px;
+}
