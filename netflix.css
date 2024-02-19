@@ -118,3 +118,27 @@ body{
     top:800px;
     left:800px;
 }
+.download{
+    height: 600px;
+    width:100%;
+}
+.download-content{
+    color:white;
+    width:35%;
+    position: absolute;
+    top:1500px;
+    left:800px;
+}
+.download-content h1{
+    font-size: 48px;
+}
+.download-content p{
+    font-size: 20px;
+}
+
+.download-content-img{
+    width:35%;
+    position: absolute;
+    top:1400px;
+    left:100px;
+}
