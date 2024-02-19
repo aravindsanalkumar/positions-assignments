@@ -92,3 +92,29 @@ body{
     margin-right: 5px;
     letter-spacing: 1px;
 }
+
+.tv{
+    height: 600px;
+    width: 100%;
+    position: relative;
+}
+
+.tv-content{
+    color:white;
+    width:35%;
+    position: absolute;
+    top:900px;
+    left:200px;
+}
+.tv-content h1{
+    font-size: 48px;
+}
+.tv-content p{
+    font-size: 20px;
+}
+.tv-content-img{
+    position: absolute;
+    width:35%;
+    top:800px;
+    left:800px;
+}
