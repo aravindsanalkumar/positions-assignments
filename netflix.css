@@ -142,3 +142,52 @@ body{
     top:1400px;
     left:100px;
 }
+.watch{
+    height: 600px;
+    width: 100%;
+    position: relative;
+}
+.watch-content{
+    color:white;
+    position: absolute;
+    top:2150px;
+    left:200px;
+    width:35%;
+}
+.watch-content h1{
+    font-size: 48px;
+}
+.watch-content p{
+    font-size: 20px;
+}
+.watch-content-img{
+    width:35%;
+    position: absolute;
+    top:2000px;
+    right:200px;
+}
+
+.kids{
+    height: 600px;
+    width: 100%;
+    position: relative;
+}
+.kids-content{
+    color:white;
+    position: absolute;
+    top:2700px;
+    left:800px;
+    width:35%;
+}
+.kids-content-img{
+    width:35%;
+    position: absolute;
+    top:2650px;
+    left:250px;
+}
+.kids-content h1{
+    font-size: 48px;
+}
+.kids-content p{
+    font-size: 20px;
+}
